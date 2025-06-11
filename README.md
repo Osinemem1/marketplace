@@ -27,11 +27,10 @@ A modern, responsive frontend for a log-selling platform built using **Laravel B
 
 ---
 
-### 🏠 Homepage  
-![Homepage](public/screenshots/log1.png)
+![Homepage](screenshots/log1.png)
 
 ### 📋 Listings Page  
-![Listings](public/screenshots/log2.png)
+![Listings](screenshots/log2.png)
 
 ---
 
